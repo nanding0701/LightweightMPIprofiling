@@ -1,6 +1,8 @@
 # LightweightMPIprofiling
 Lightweigh MPI profiling
 
+Please checkout foCESM branch
+
 HOW TO USE
 1. simply modify the Makefile, and make. You'll see a libmpit.a in the same directory.
 2. instrument the application code.
