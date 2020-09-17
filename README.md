@@ -16,8 +16,8 @@ Instrument application code
     ...
     call PROFILE_DYNAMIC_FINISH()
   
- Build application code
-  need to link libmpit.a
+ 3. compiling application code
+    need to link libmpit.a, -L<path to libmpit.a>/ -lmpit
   
   
  Outputs:
